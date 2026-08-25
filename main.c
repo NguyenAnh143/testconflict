@@ -1,7 +1,7 @@
+
 #include <stdio.h>
 
 int main() {
-    printf("Welcome to Project X!\n");
-    // TODO: Add greeting logic
+    printf("Greetings from Dev C - Global\n");
     return 0;
 }
